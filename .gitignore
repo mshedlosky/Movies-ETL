@@ -1,3 +1,6 @@
+#ignore pw
+config.py
+
 #Ignore CSV files and JSON (movie data and large JSON file)
 *.csv
 *.json
